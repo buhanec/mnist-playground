@@ -1,6 +1,8 @@
 .idea/
 *.pkl
 *.csv
+*-ubyte
+*-ubyte.gz
 
 # Created by https://www.gitignore.io/api/python
 
